@@ -1,0 +1,48 @@
+@import 'https://fonts.googleapis.com/css?family=Share+Tech+Mono';
+*{
+	font-family: 'Share Tech Mono', monospace;
+}
+body{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+}
+#marcador{
+	display: flex;
+	justify-content: space-between;
+	width: 600px;
+}
+#marcador span{
+	font-size: 1.2rem;
+}
+#player1::before{
+	content: "Jugador 1: ";
+	font-weight: bold;
+}
+#player2::before{
+	content: "Jugador 2: ";
+	font-weight: bold;
+}
+
+#tablero{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	width: 500px;
+	height: 500px;
+	margin: 10px;
+}
+
+#tablero .box{
+	background: silver;
+	width: 32.93%;
+	margin: 1px;
+	cursor: pointer;
+	transition: all 300ms ease;
+}
+
+#tablero .box:hover{
+	background: gray;
+}
