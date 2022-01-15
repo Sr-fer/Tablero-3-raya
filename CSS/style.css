@@ -33,7 +33,7 @@ body{
 	margin: 10px;
 }
 
-#tablero .box1{
+#tablero .box{
 	background: silver;
 	width: 32.93%;
 	margin: 1px;
@@ -41,103 +41,9 @@ body{
 	transition: all 300ms ease;
 }
 
-#tablero .box2{
-	background: silver;
-	width: 32.93%;
-	margin: 1px;
-	cursor: pointer;
-	transition: all 300ms ease;
-}
 
-#tablero .box3{
-	background: silver;
-	width: 32.93%;
-	margin: 1px;
-	cursor: pointer;
-	transition: all 300ms ease;
-}
-
-#tablero .box4{
-	background: silver;
-	width: 32.93%;
-	margin: 1px;
-	cursor: pointer;
-	transition: all 300ms ease;
-}
-
-#tablero .box5{
-	background: silver;
-	width: 32.93%;
-	margin: 1px;
-	cursor: pointer;
-	transition: all 300ms ease;
-}
-
-#tablero .box6{
-	background: silver;
-	width: 32.93%;
-	margin: 1px;
-	cursor: pointer;
-	transition: all 300ms ease;
-}
-
-#tablero .box7{
-	background: silver;
-	width: 32.93%;
-	margin: 1px;
-	cursor: pointer;
-	transition: all 300ms ease;
-}
-
-#tablero .box8{
-	background: silver;
-	width: 32.93%;
-	margin: 1px;
-	cursor: pointer;
-	transition: all 300ms ease;
-}
-
-#tablero .box9{
-	background: silver;
-	width: 32.93%;
-	margin: 1px;
-	cursor: pointer;
-	transition: all 300ms ease;
-}
-
-#tablero .box1:hover{
+#tablero .box:hover{
 	background: gray;
 }
 
-#tablero .box2:hover{
-	background: gray;
-}
-
-#tablero .box3:hover{
-	background: gray;
-}
-
-#tablero .box4:hover{
-	background: gray;
-}
-
-#tablero .box5:hover{
-	background: gray;
-}
-
-#tablero .box6:hover{
-	background: gray;
-}
-
-#tablero .box7:hover{
-	background: gray;
-}
-
-#tablero .box8:hover{
-	background: gray;
-}
-
-#tablero .box9:hover{
-	background: gray;
-}
 
