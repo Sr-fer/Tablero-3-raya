@@ -35,71 +35,7 @@ body{
 
 
 
-#box1 {
-	background: silver;
-	width: 32.93%;
-	margin: 1px;
-	cursor: pointer;
-	transition: all 300ms ease;
-}
-
-#box2 {
-	background: silver;
-	width: 32.93%;
-	margin: 1px;
-	cursor: pointer;
-	transition: all 300ms ease;
-}
-
-#box3 {
-	background: silver;
-	width: 32.93%;
-	margin: 1px;
-	cursor: pointer;
-	transition: all 300ms ease;
-}
-
-#box4 {
-	background: silver;
-	width: 32.93%;
-	margin: 1px;
-	cursor: pointer;
-	transition: all 300ms ease;
-}
-
-#box5 {
-	background: silver;
-	width: 32.93%;
-	margin: 1px;
-	cursor: pointer;
-	transition: all 300ms ease;
-}
-
-#box6 {
-	background: silver;
-	width: 32.93%;
-	margin: 1px;
-	cursor: pointer;
-	transition: all 300ms ease;
-}
-
-#box7 {
-	background: silver;
-	width: 32.93%;
-	margin: 1px;
-	cursor: pointer;
-	transition: all 300ms ease;
-}
-
-#box8 {
-	background: silver;
-	width: 32.93%;
-	margin: 1px;
-	cursor: pointer;
-	transition: all 300ms ease;
-}
-
-#box9 {
+#tablero .box{
 	background: silver;
 	width: 32.93%;
 	margin: 1px;
